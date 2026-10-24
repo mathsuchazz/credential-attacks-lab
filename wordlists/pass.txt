@@ -1,0 +1,6 @@
+root
+123456
+msfadmin
+admin
+password
+ftp

@@ -1,0 +1,6 @@
+admin
+msfadmin
+root
+user
+ftp
+service
